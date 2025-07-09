@@ -1,6 +1,6 @@
 # Binary to Decimal Converter
 
-This is a simple C program that converts a binary number (entered as a string) into its decimal equivalent.
+This is a simple terminal C program that converts a binary number (entered as a string) into its decimal equivalent.
 
 ## What It Does
 
